@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class Test {
+public class MinimumCostFinder {
     public static void main(String[] args) {
         List<Integer> distances = Arrays.asList(10,10,10,30);
         List<Integer> prices = Arrays.asList(2,3,4,5);
